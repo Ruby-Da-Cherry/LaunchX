@@ -1,2 +1,2 @@
 # LaunchX
-Kanas
+Kanas del curso Introduccion Python ^^
